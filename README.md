@@ -78,6 +78,29 @@ Planning to add:
 Works like a charm on Windows 10! I've also been using it on my Android phone with Pydroid for a whole year without any hiccups! 📱
 Just a heads up: If the tables look a bit squished on your screen, try increasing your terminal's font size. Think of it like adjusting your glasses - sometimes you just need the right fit! 🔍
 
+
+## 🎬 Preview
+ 
+
+### 📌 How to add transactions :  
+[![Video Preview](https://github.com/user-attachments/assets/bdbfd0b8-8f4f-4a7a-ad1b-30cf25fa2648)](https://github.com/user-attachments/assets/bdbfd0b8-8f4f-4a7a-ad1b-30cf25fa2648)  
+
+### 📌 Track who owes you money :
+[![Video Preview](https://github.com/user-attachments/assets/92fb4d0b-ae55-4e67-853c-b9d840e927a3)](https://github.com/user-attachments/assets/92fb4d0b-ae55-4e67-853c-b9d840e927a3)  
+
+### 📌 Export transactions data :  
+[![Video Preview](https://github.com/user-attachments/assets/34849477-4c57-4e9e-83eb-93d17d78de63)](https://github.com/user-attachments/assets/34849477-4c57-4e9e-83eb-93d17d78de63)  
+
+### 📌 Get help :  
+[![Video Preview](https://github.com/user-attachments/assets/dfb4f07c-6a53-4d0d-bf69-de45e8b7ebcc)](https://github.com/user-attachments/assets/dfb4f07c-6a53-4d0d-bf69-de45e8b7ebcc)  
+
+### 📌 How to quit the program :  
+[![Video Preview](https://github.com/user-attachments/assets/67bfe511-a017-4670-bc28-9c59a5e2fca2)](https://github.com/user-attachments/assets/67bfe511-a017-4670-bc28-9c59a5e2fca2)  
+
+
+
+
+
 ## 💝 One Last Thing...
 
 This isn't just another app - it's my grandfather's wisdom wrapped in Python code! Whether you're trying to save up for that new phone or just want to know where your money's going, I hope this helps you as much as it's helped me!
